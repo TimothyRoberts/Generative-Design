@@ -1,0 +1,9 @@
+p {color: white;}
+
+a {color: white;}
+
+
+canvas {
+    /* position: fixed; */
+    z-index: -3;
+}
