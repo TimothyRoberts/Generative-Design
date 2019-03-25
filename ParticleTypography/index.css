@@ -1,9 +1,29 @@
-p {color: white;}
+p {
+  font-family: helvetica;
+  font-size: 0.7em;
+  color: white;
+}
 
 a {color: white;}
 
-
 canvas {
-    /* position: fixed; */
-    z-index: -3;
+  position: fixed;
+  z-index: -3;
+}
+
+#textBox {z-index: 1;}
+
+.inputBox {
+  margin-top: 12px;
+  background-color: rgba(0,0,0);
+}
+
+.optionsBox {
+  border-radius: 25px;
+  border: 1px solid rgba(255,255,255);
+  background-color: rgba(0,0,0,40);
+}
+
+.topPadding {
+  padding-top: 80vh;
 }

@@ -11,37 +11,50 @@
   </head>
   <body>
 
-  <div id="canvasContainer"></div>
+    <div id="canvasContainer"></div>
 
-      <!-- <div class="section">
-        <div class="container">
-          <div class="columns">
-            <div id="canvas-holder" class="column is-four-fifths has-background-grey">
+    <div class="container">
 
-              <div id="canvas-holder"></div>
-            </div>
+      <div class="columns topPadding">
+        <div class="column is-1">
+          <input onClick="leftPressed()" type="image" src="data/left.png" alt="left key" height="60" width="60">
+          <p class="centerText">BREAK TEXT</p>
+        </div>
+        <div id="textBox" class="column"></div>
+        <div class="column is-1">
+          <input onClick="rightPressed()" type="image" src="data/right.png" alt="right key" height="60" width="60">
+          <p>FORM TEXT</p>
+       </div>
+      </div>
 
-            <div class="column is-one-fifth has-background-grey">
+      <div class="columns optionsBox">
+        <div class="column is-1"></div>
+        <div class="column">
+          <p>FONT-SIZE</p>
+          <div id="fontSizeController"></div>
+        </div>
+        <div class="column">
+          <p>POINT-SIZE</p>
+          <div id="pointSizeController"></div>
+        </div>
+        <div class="column">
+          <p>ALPHA AMOUNT</p>
+          <div id="alphaController"></div>
+        </div>
+        <div class="column">
+          <p>COLOUR 1</p>
+          <div id="colour1Controller"></div>
+        </div>
+        <div class="column">
+          <p>COLOUR 2</p>
+          <div id="colour2Controller"></div>
+        </div>
+      </div>
+      <div class="column is-1"></div>
+
+    </div>
 
 
-              <p>Font Size</p>
-              <div id="fontSizeController"></div>
-              <p>Radius Size</p>
-              <div id="radiusController"></div>
-              <p>Fill</p>
-              <div id="fillController"></div>
-              <p>Animate</p>
-              <div id="animateController"></div>
-              <p>Input Options</p>
-              <div id="inputController"></div>
-              <div id="submitController"></div>
-
-
-            </div>
-          </div>
-        </div> -->
-      <!-- </div>
-    </div> -->
   </body>
 
   <script src="lib/p5.min.js" type="text/javascript"></script>
