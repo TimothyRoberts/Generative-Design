@@ -1,8 +1,6 @@
 Generative Design
 =================
-Generative design is an iterative process that allows a range of design options to be explored. Constraints are set by the designer, and many results can be generated within these constraints.
-
-This is a collection of generative design pieces created as part of a final year Creative Coding module:
+Generative design is an iterative process that allows a range of design options to be explored. Constraints are set by the designer, and many results can be generated within these constraints. This is a collection of some generative design pieces created as part of a final year Creative Coding module.
 
 [Wallpaper Generator](FlowfieldWallpaper/BookCover_Final_Origin)
 -------------------
