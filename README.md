@@ -1,11 +1,12 @@
-Generative-Design
+Generative Design
 =================
+Generative design is an iterative process that allows a range of design options to be explored. Constraints are set by the designer, and many results can be generated within these constraints.
 
-This repository is a collection of generative design pieces. Experiments in typography, shape, colour and design can be found here.
+This is a collection of generative design pieces created as part of a final year Creative Coding module:
 
 [Wallpaper Generator](FlowfieldWallpaper/BookCover_Final_Origin)
 -------------------
-This project allows users to generate and save a wallpaper for their phone. Perlin noise was used for the design to create a path for particles to follow. The colour of the particles and the magnitude of the perlin noise path can be adjusted by the user to create a variety of interesting results.
+This project allows users to generate and save a wallpaper for a mobile device. Perlin noise was used for the design to create a path for particles to follow. The colour of the particles and the magnitude of the perlin noise path can be adjusted by the user to create a variety of interesting results.
 
 ![alt text](Images/WallpaperGenerator.png "Flowfield Wallpaper")
 
