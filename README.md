@@ -13,7 +13,7 @@ This project allows users to generate and save a wallpaper for their phone. Perl
 -------------------
 This project allows the user to type an input and have that input text form as particles. The particles move pseudo-randomly around the screen and animate towards the points of a text graphic when the text is input.
 
-![alt text](Images/PType.gif "Particle Typography")
+![alt text](Images/ParticleTypography.gif "Particle Typography")
 
 [Alphabet Soup](AlphabetSoup)
 -------------
