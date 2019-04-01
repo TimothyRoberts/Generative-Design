@@ -7,7 +7,7 @@ This repository is a collection of generative design pieces. Experiments in typo
 -------------------
 This project allows users to generate and save a wallpaper for their phone. Perlin noise was used for the design to create a path for particles to follow. The colour of the particles and the magnitude of the perlin noise path can be adjusted by the user to create a variety of interesting results.
 
-![alt text](https://github.com/TimothyRoberts/Generative-Design/blob/master/Images/FlowfieldWallpaper.png "Flowfield Wallpaper")
+![alt text](Images/FlowfieldWallpaper.png "Flowfield Wallpaper")
 
 [Particle Typography](ParticleTypography)
 -------------------
