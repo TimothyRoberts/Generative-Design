@@ -19,6 +19,7 @@ This project allows the user to type an input and have that input text form as p
 -------------
 This project was developed during a workshop hosted by Hartmund Bohnacker, author of 'Generative Design: Visualize, Program, and Create with JavaScript in p5.js'. The project takes in text input from the keyboard and places it into a bowl of alphabet soup. The mouse can then influence the position of the characters in the soup.
 
+![alt text](Images/AlphabetSoup.png "Alphabet Soup")
 
 [Shape Experiments](ShapeExperiments)
 ----------------
